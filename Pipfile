@@ -1,0 +1,11 @@
+[dev-packages]
+pylint = "*"
+pycodestyle = "*"
+autopep8 = "*"
+
+[packages]
+flask = "*"
+flask-sqlalchemy = "*"
+
+[requires]
+python_version = "3.9"
